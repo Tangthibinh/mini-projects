@@ -1,0 +1,13 @@
+name: expense_ocr
+description: Flutter Expense OCR Mini Project
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: latest
+  google_mlkit_text_recognition: latest
+flutter:
+  uses-material-design: true

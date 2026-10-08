@@ -1,0 +1,1 @@
+{"name":"room-booking-realtime","version":"1.0.0","private":true,"main":"node_modules/expo/AppEntry.js","scripts":{"start":"expo start"},"dependencies":{"expo":"latest","react":"latest","react-native":"latest"}}

@@ -1,0 +1,1 @@
+{"name":"capacitor-field-survey","version":"1.0.0","private":true,"scripts":{"start":"vite","build":"vite build","sync":"npx cap sync","android":"npx cap open android"},"dependencies":{"@capacitor/core":"latest","@capacitor/android":"latest"},"devDependencies":{"@capacitor/cli":"latest","vite":"latest"}}
